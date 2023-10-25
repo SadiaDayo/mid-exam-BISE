@@ -1,4 +1,14 @@
 .navbar{
-    background-color: rgb(25,25,75);
+    background-color: rgb(0, 0, 0);
+    text-align: center;
 }
 
+.container1{
+    background-color: rgb(181,183, 187);
+}
+
+.container2{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
